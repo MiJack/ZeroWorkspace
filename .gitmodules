@@ -1,0 +1,6 @@
+[submodule "zero-web"]
+	path = zero-web
+	url = git@github.com:MiJack/zero-web.git
+[submodule "Zero"]
+	path = Zero
+	url = git@github.com:MiJack/Zero.git
